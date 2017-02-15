@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 448 430"
+   height="458.66666"
+   width="477.86667"
+   version="1.1"
+   id="svg3080"
+   inkscape:version="0.92.0 r"
+   sodipodi:docname="lanparty-logo.svg"
+   inkscape:export-filename="/home/aaron/Bilder/lan-party/logos/lanparty-logo-112.png"
+   inkscape:export-xdpi="22.5"
+   inkscape:export-ydpi="22.5">
+  <metadata
+     id="metadata3135">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     id="namedview3133"
+     showgrid="false"
+     inkscape:zoom="0.921875"
+     inkscape:cx="-144.6765"
+     inkscape:cy="207.65573"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3080"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs3082">
+    <linearGradient
+       id="pins"
+       x1="0"
+       y1="1"
+       x2="0"
+       y2="0">
+      <stop
+         offset="30%"
+         style="stop-color:#efb73a;stop-opacity:1"
+         id="stop3085" />
+      <stop
+         offset="100%"
+         style="stop-color:#333333;stop-opacity:1"
+         id="stop3087" />
+    </linearGradient>
+    <linearGradient
+       id="text1"
+       x1="0"
+       y1="1"
+       x2="0"
+       y2="0">
+      <stop
+         offset="0%"
+         style="stop-color:#ff4444;stop-opacity:1"
+         id="stop3090" />
+      <stop
+         offset="100%"
+         style="stop-color:#cc0000;stop-opacity:1"
+         id="stop3092" />
+    </linearGradient>
+    <linearGradient
+       id="text2"
+       x1="0"
+       y1="1"
+       x2="0"
+       y2="0">
+      <stop
+         offset="0%"
+         style="stop-color:#ffffff;stop-opacity:1"
+         id="stop3095" />
+      <stop
+         offset="100%"
+         style="stop-color:#cccccc;stop-opacity:1"
+         id="stop3097" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#pins"
+       id="linearGradient4451"
+       x1="326.11655"
+       y1="170.14777"
+       x2="326.11655"
+       y2="131.78111"
+       gradientTransform="scale(0.41702883,2.3979158)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <style
+     type="text/css"
+     id="style3099">
+    @font-face {
+      font-family: &quot;Dina&quot;;
+      src:url('dina10px.ttf');
+    }
+    @font-face {
+      font-family: &quot;Lucida&quot;;
+      src:url('L_10646.TTF');
+    }
+    @font-face {
+      font-family: &quot;Queen of Camelot&quot;;
+      src:url('Queen of Camelot.otf');
+    }
+  </style>
+  <rect
+     x="0"
+     y="0"
+     height="430"
+     width="448"
+     rx="20"
+     ry="20"
+     style="fill:#dddddd"
+     id="rect3101" />
+  <path
+     style="font-weight:bold;font-size:78.46398926px;font-family:'Queen of Camelot';fill:#444444"
+     d="m 81.41922,354.74533 c -5.5425,0 -8.27581,2.83366 -8.19922,8.50391 v 3.14258 19.94335 c -6e-5,0.0194 -0.002,0.0372 -0.002,0.0566 V 408.382 h 0.002 11.56836 0.46093 V 387.84684 H 98.58133 V 408.382 h 0.46093 11.56836 0.002 v -21.99023 c 0,-0.0202 -0.002,-0.0385 -0.002,-0.0586 v -19.9414 -3.14258 c 0.0766,-5.67025 -2.65672,-8.50391 -8.19922,-8.50391 z m 3.83007,11.64649 h 13.33204 v 10.22851 H 85.24929 Z"
+     id="path3989-8-0"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccsccccccccccscccccccccc" />
+  <path
+     style="font-weight:bold;font-size:78.46398926px;font-family:'Queen of Camelot';fill:#444444"
+     d="m 249.41022,354.92578 c -5.5425,0 -8.27581,2.83366 -8.19922,8.50391 v 3.14258 19.94335 c -6e-5,0.0194 -0.002,0.0372 -0.002,0.0566 v 21.99023 h 0.002 11.56836 0.46093 v -20.53516 h 13.33204 v 20.53516 h 0.46093 11.56836 0.002 v -21.99023 c 0,-0.0202 -0.002,-0.0385 -0.002,-0.0586 v -19.9414 -3.14258 c 0.0766,-5.67025 -2.65672,-8.50391 -8.19922,-8.50391 z m 3.83007,11.64649 h 13.33204 v 10.22851 h -13.33204 z"
+     id="path3989-8"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccsccccccccccscccccccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path3973"
+     style="font-weight:bold;font-size:78.46398926px;font-family:'Queen of Camelot';fill:#444444"
+     d="m 44.760028,354.82152 -0.03831,37.20143 c 0.02553,3.2438 1.532486,4.8657 4.520874,4.86569 h 16.972436 v 11.49375 h -21.95306 c -8.096711,0.0511 -12.145061,-3.43536 -12.145061,-10.45932 V 354.82152 H 44.76003" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path3977"
+     style="font-weight:bold;font-size:78.46398926px;font-family:'Queen of Camelot';fill:#444444"
+     d="m 147.38081,354.82152 v 28.08306 l -18.88806,-26.47394 c -0.7918,-1.04715 -1.80069,-1.76232 -3.02668,-2.1455 -1.25155,-0.40861 -2.49032,-0.40861 -3.71632,0 -1.226,0.40872 -2.22212,1.13666 -2.98837,2.18381 -0.76625,1.07281 -1.14938,2.24772 -1.14938,3.52475 v 48.427 h 12.03013 v -28.54281 l 18.92637,26.51225 c 0.76622,1.0472 1.76234,1.76237 2.98838,2.1455 1.2515,0.40866 2.49027,0.40866 3.71631,0 1.2515,-0.40867 2.24762,-1.13661 2.98837,-2.18382 0.76621,-1.0472 1.14933,-2.22212 1.14938,-3.52475 v -48.00555 h -12.03013" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path3979"
+     style="font-weight:bold;font-size:78.46398926px;font-family:'Queen of Camelot';fill:#444444"
+     d="m 166.02,375.89339 h 22.75762 v 11.41712 H 166.02 v -11.41712" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path3981"
+     style="font-weight:bold;font-size:78.46398926px;font-family:'Queen of Camelot';fill:#444444"
+     d="m 216.22767,378.15459 c 4.52083,0.0133 6.78128,-1.60909 6.78131,-4.82738 v -2.29951 c -3e-5,-3.14158 -2.26046,-4.71239 -6.78131,-4.71243 l -8.96513,-0.0383 v 11.87764 m -0.0766,30.15117 H 195.424 v -53.56087 l 25.36287,0.11494 c 9.52701,-0.0255 14.29053,5.3638 14.29056,16.16787 v 2.29951 c -3e-5,10.75307 -4.76355,16.12958 -14.29056,16.12956 h -13.56262"
+     sodipodi:nodetypes="cccccccccccccc" />
+  <path
+     style="font-weight:bold;font-size:78.46398926px;font-family:'Queen of Camelot';fill:#444444"
+     d="m 285.54375,354.85938 v 53.5625 h 11.76172 l 0.0371,-18.84961 h 6.52148 l 9.82032,18.77148 14.71093,0.0762 -11.45117,-19.78906 c 5.49598,-1.96398 8.25193,-7.02024 8.25195,-15.1875 v -2.30078 c -3e-5,-10.80407 -4.764,-16.19347 -14.29101,-16.16797 l -25.36133,-0.11523 z m 11.83789,11.5332 8.96484,0.0371 c 4.52085,4e-5 6.78122,1.57131 6.78125,4.71289 v 2.30078 c -3e-5,3.21829 -2.26042,4.83947 -6.78125,4.82617 h -8.96484 v -11.87695 z"
+     id="path3981-2"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path3987"
+     style="font-weight:bold;font-size:78.46398926px;font-family:'Queen of Camelot';fill:#444444"
+     d="M 345.66356,408.621 V 366.55388 H 331.212 v -11.60869 h 40.77999 v 11.60869 H 358.15343 V 408.621 h -12.48987"
+     sodipodi:nodetypes="ccccccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path3989"
+     style="font-weight:bold;font-size:78.46398926px;font-family:'Queen of Camelot';fill:#444444"
+     d="m 378.6151,376.73626 c 0,6.51315 3.42258,9.76971 10.26775,9.76969 h 15.09513 v 10.22944 H 380.615 v 11.72362 h 27.00266 l 0.19157,-0.0766 c 5.5425,0 8.27546,-2.83513 8.19887,-8.50538 v -45.13212 h -12.03012 v 20.5355 h -13.7925 v -20.5355 H 378.6151 l -10e-5,21.99137"
+     sodipodi:nodetypes="cscccccccccccccc" />
+  <!--<rect x="64" y="104" height="304" width="384" rx="16" ry="16" style="fill:#ffffff" />-->
+  <g
+     id="g3103"
+     transform="translate(-32,-72)">
+    <path
+       id="buchse"
+       d="m 312,104 q 8,0 8,8 v 16 q 0,8 8,8 h 16 q 16,0 16,16 v 8 q 0,16 12,16 h 60 q 16,0 16,16 v 200 q 0,16 -16,16 H 80 Q 64,408 64,392 V 192 q 0,-16 16,-16 h 56 q 16,0 16,-16 v -8 q 0,-16 16,-16 h 16 q 8,0 8,-8 v -16 q 0,-8 8,-8 z"
+       style="fill:#333333"
+       inkscape:connector-curvature="0" />
+  </g>
+  <path
+     style="font-weight:bold;font-size:127.5px;font-family:'Queen of Camelot';fill:#ff4444"
+     d="M 58,130.8418 86.44922,174.75391 58,218 H 81.5332 L 98.02734,192.625 114.4668,218 h 23.65625 L 109.7207,174.63477 138.18555,130.8418 H 115.33789 L 98.14844,156.9707 81.03516,130.8418 Z"
+     id="path4001-6"
+     inkscape:connector-curvature="0" />
+  <g
+     id="g3106"
+     transform="translate(-32,-72)">
+    <path
+       id="pin"
+       d="m 136,408 v -84 q 0,-8 8,-8 8,0 8,8 v 84"
+       style="fill:url(#linearGradient4451)"
+       inkscape:connector-curvature="0" />
+    <use
+       xlink:href="#pin"
+       transform="translate(32)"
+       id="use3109"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#pin"
+       transform="translate(64)"
+       id="use3111"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#pin"
+       transform="translate(96)"
+       id="use3113"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#pin"
+       transform="translate(128)"
+       id="use3115"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#pin"
+       transform="translate(160)"
+       id="use3117"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#pin"
+       transform="translate(192)"
+       id="use3119"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#pin"
+       transform="translate(224)"
+       id="use3121"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+  </g>
+  <g
+     style="font-weight:bold;font-size:127.5px;font-family:'Queen of Camelot';fill:#dddddd"
+     id="text3125"
+     transform="translate(-34,-72)">
+    <path
+       d="m 221.39233,271.3855 v -23.59497 h 19.73511 V 290 H 211.86719 C 189.28905,290 178,275.47365 178,246.4209 c 0,-29.05266 11.28905,-43.57902 33.86719,-43.5791 h 29.26025 v 18.80127 h -20.48218 c -15.02444,6e-5 -22.53664,6.8067 -22.53662,20.41992 v 9.33838 c -2e-5,13.32278 7.22165,19.98415 21.66504,19.98413 h 1.61865"
+       style="font-weight:bold;font-size:127.5px;font-family:'Queen of Camelot';fill:#dddddd"
+       id="path3998"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="font-weight:bold;font-size:127.5px;font-family:'Queen of Camelot';fill:#dddddd"
+     id="text3127"
+     transform="translate(-34,-72)">
+    <path
+       d="m 332.90942,202.65503 c -2.19977,-0.49796 -4.93903,-0.29044 -8.21777,0.62256 -2.03375,0.91317 -3.52789,2.30355 -4.48242,4.17114 l -18.80127,31.40796 -19.23706,-31.90601 c -0.99611,-1.86759 -2.51101,-3.25797 -4.54468,-4.17114 -3.27882,-0.87149 -5.99732,-1.07901 -8.15552,-0.62256 -2.19971,0.49814 -3.98438,1.57724 -5.354,3.23731 C 262.70557,207.01302 262,208.8807 262,210.99731 V 290 h 19.29932 v -44.21729 l 11.45507,21.4004 c 0.83005,1.53565 2.03366,2.76002 3.61084,3.67309 1.57712,0.9131 3.25802,1.36964 5.04273,1.36963 1.86763,1e-5 3.56929,-0.45653 5.10498,-1.36963 1.5771,-0.91307 2.75996,-2.15819 3.54858,-3.73535 l 11.01929,-20.59106 V 290 h 19.29932 v -78.50464 c -8e-5,-2.11662 -0.70565,-4.00504 -2.1167,-5.66528 -1.41121,-1.66007 -3.19588,-2.71842 -5.35401,-3.17505"
+       style="font-weight:bold;font-size:127.5px;font-family:'Queen of Camelot';fill:#dddddd"
+       id="path3992"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccscccccccccccccc" />
+  </g>
+  <path
+     sodipodi:nodetypes="csssccccccccccc"
+     inkscape:connector-curvature="0"
+     id="path3995"
+     style="font-weight:bold;font-size:127.5px;font-family:'Queen of Camelot';fill:#dddddd"
+     d="M 384.396,218 H 345.6106 C 332.53686,218 326,212.29322 326,200.87964 v -54.90967 c 0,-9.96085 6.53686,-15.00357 19.6106,-15.12817 h 38.7854 v 18.7392 l -38.2251,-1.9e-4 v 15.62622 h 38.2251 v 18.55225 h -38.2251 v 15.43945 H 384.396 V 218" />
+  <!--<text x="170" y="198" style="fill:#666666;font-size:42pt;font-family:Lucida;font-weight:1px;">0x7e0</text>-->
+  <!--<text x="524" y="408" style="fill:#444444;font-size:244pt;font-family:Arial;font-weight:bold;">LAN-PARTY</text>-->
+  <!--<text x="139" y="400" style="fill:#444444;font-size:12pt;font-family:Arial;font-weight:bold;">L</text>
+  <text x="171" y="400" style="fill:#444444;font-size:12pt;font-family:Arial;font-weight:bold;">A</text>
+  <text x="203" y="400" style="fill:#444444;font-size:12pt;font-family:Arial;font-weight:bold;">N</text>
+  <text x="235" y="400" style="fill:#444444;font-size:12pt;font-family:Arial;font-weight:bold;">P</text>
+  <text x="267" y="400" style="fill:#444444;font-size:12pt;font-family:Arial;font-weight:bold;">A</text>
+  <text x="299" y="400" style="fill:#444444;font-size:12pt;font-family:Arial;font-weight:bold;">R</text>
+  <text x="331" y="400" style="fill:#444444;font-size:12pt;font-family:Arial;font-weight:bold;">T</text>
+  <text x="363" y="400" style="fill:#444444;font-size:12pt;font-family:Arial;font-weight:bold;">Y</text>
+  <text x="395" y="400" style="fill:#ffffff;font-size:12pt;font-family:Arial;font-weight:bold;">E</text>
+  <rect x="64" y="104" height="32" width="64" rx="10" ry="10" style="fill:#eeeeaa" />
+  <rect x="384" y="104" height="32" width="64" rx="10" ry="10" style="fill:#aaeeaa" />-->
+</svg>

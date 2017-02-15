@@ -1,0 +1,554 @@
+SplineFontDB: 3.0
+FontName: XGMELAN
+FullName: XGMELAN
+FamilyName: XGMELAN
+Weight: Medium
+Copyright: 
+UComments: "2016-7-19: Created." 
+Version: 001.000
+DefaultBaseFilename: xgmelan
+ItalicAngle: 0
+UnderlinePosition: -102.4
+UnderlineWidth: 51.2
+Ascent: 819
+Descent: 205
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+XUID: [1021 707 2109566029 6043932]
+FSType: 8
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1468935670
+ModificationTime: 1468942215
+PfmFamily: 17
+TTFWeight: 500
+TTFWidth: 5
+LineGap: 92
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 92
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+Lookup: 258 0 0 "kerning"  {"kerning" [153,15,0] } []
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 "" "XGME LAN" "" "" "XGME LAN" 
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -24
+AntiAlias: 1
+FitToEm: 1
+WidthSeparation: 154
+WinInfo: 64 16 4
+BeginPrivate: 0
+EndPrivate
+TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+BeginChars: 256 25
+
+StartChar: A
+Encoding: 65 65 0
+Width: 722
+VWidth: 0
+Flags: W
+HStem: 0 21G<74 258 461 645> 0 21G<74 258 461 645> 314 171<258 461> 641 178<258 461>
+VStem: 74 184<0 314 485 641> 461 184<0 314 485 641>
+LayerCount: 2
+Fore
+SplineSet
+461 0 m 1xbc
+ 461 314 l 1
+ 258 314 l 1
+ 258 0 l 1
+ 74 0 l 1
+ 74 0 74 691 74 692 c 0
+ 74 777 115 819 199 819 c 2
+ 520 819 l 2
+ 604 819 645 777 645 692 c 0
+ 645 691 645 0 645 0 c 1
+ 461 0 l 1xbc
+258 641 m 1
+ 258 485 l 1
+ 461 485 l 1
+ 461 641 l 1
+ 258 641 l 1
+EndSplineSet
+Kerns2: 21 0 "kerning"  9 -30 "kerning" 
+EndChar
+
+StartChar: E
+Encoding: 69 69 1
+Width: 697
+VWidth: 0
+Flags: W
+HStem: 0 177<260 619> 322 174<260 619> 643 176<260 619>
+VStem: 70 190<177 322 496 643>
+LayerCount: 2
+Fore
+SplineSet
+619 0 m 1
+ 254 0 l 2
+ 131 0 70 54 70 161 c 2
+ 70 677 l 2
+ 70 771 131 818 254 819 c 2
+ 619 819 l 1
+ 619 643 l 1
+ 260 643 l 1
+ 260 496 l 1
+ 619 496 l 1
+ 619 322 l 1
+ 260 322 l 1
+ 260 177 l 1
+ 619 177 l 1
+ 619 0 l 1
+EndSplineSet
+Kerns2: 2 -10 "kerning"  8 -10 "kerning" 
+EndChar
+
+StartChar: G
+Encoding: 71 71 2
+Width: 730
+VWidth: 0
+Flags: W
+HStem: 0 175<338.492 467> 643 176<347.886 652>
+VStem: 59 189<260.483 549.12> 467 185<175 397>
+LayerCount: 2
+Fore
+SplineSet
+467 175 m 13
+ 467 397 l 21
+ 652 397 l 5
+ 652 0 l 5
+ 377 0 l 6
+ 165 0 59 137 59 410 c 4
+ 59 683 165 819 377 819 c 6
+ 652 819 l 5
+ 652 643 l 5
+ 460 643 l 6
+ 319 643 248 579 248 451 c 6
+ 248 363 l 6
+ 248 238 316 175 452 175 c 6
+ 467 175 l 13
+EndSplineSet
+EndChar
+
+StartChar: L
+Encoding: 76 76 3
+Width: 659
+VWidth: 0
+Flags: W
+HStem: 0 176<279.167 594> 799 20G<72 265> 799 20G<72 265>
+VStem: 72 193<189.949 819>
+LayerCount: 2
+Fore
+SplineSet
+265 819 m 5xd0
+ 265 250 l 6
+ 265 200 288 176 334 176 c 6
+ 594 176 l 5
+ 594 0 l 5
+ 258 0 l 6
+ 257 0 256 0 255 0 c 4
+ 133 0 72 54 72 160 c 6
+ 72 819 l 5
+ 265 819 l 5xd0
+EndSplineSet
+Kerns2: 21 -20 "kerning"  19 -130 "kerning"  13 -30 "kerning"  10 -20 "kerning"  8 -130 "kerning"  2 -30 "kerning"  22 -80 "kerning" 
+EndChar
+
+StartChar: M
+Encoding: 77 77 4
+Width: 880
+VWidth: 0
+Flags: W
+HStem: 0 21G<74 254 624 803> 0 21G<74 254 624 803> 799 20G<150.5 174> 799 20G<150.5 174>
+VStem: 74 180<0 411> 624 179<0 404>
+LayerCount: 2
+Fore
+SplineSet
+734 812 m 4xac
+ 770 804 803 772 803 730 c 6
+ 803 0 l 5
+ 624 0 l 5
+ 624 404 l 5
+ 521 213 l 6
+ 508 187 479 165 441 165 c 4
+ 404 165 374 187 360 212 c 6
+ 254 411 l 5
+ 254 0 l 5
+ 74 0 l 5
+ 74 735 l 6
+ 74 755 81 772 94 787 c 4
+ 112 809 135 819 166 819 c 4
+ 182 819 199 816 219 811 c 5
+ 238 803 253 789 262 772 c 5
+ 441 476 l 5
+ 615 768 l 5
+ 624 785 638 799 657 807 c 5
+ 677 812 694 815 710 815 c 4
+ 718 815 734 812 734 812 c 4xac
+EndSplineSet
+Kerns2: 8 -10 "kerning" 
+EndChar
+
+StartChar: N
+Encoding: 78 78 5
+Width: 776
+VWidth: 0
+Flags: W
+HStem: 0 21G<74 254 604.5 613.5> 0 21G<74 254 604.5 613.5> 799 20G<158.5 167.5 519 698> 799 20G<158.5 167.5 519 698>
+VStem: 74 180<0 432> 519 179<387 819>
+LayerCount: 2
+Fore
+SplineSet
+519 387 m 5xac
+ 519 819 l 5
+ 698 819 l 5
+ 698 90 l 6
+ 698 71 692 53 681 37 c 4
+ 670 21 655 11 636 5 c 4
+ 627 2 618 0 609 0 c 4
+ 600 0 590 2 581 5 c 4
+ 563 11 547 21 536 37 c 6
+ 254 432 l 5
+ 254 0 l 5
+ 74 0 l 5
+ 74 729 l 6
+ 74 748 80 766 91 782 c 4
+ 102 798 118 809 136 815 c 4
+ 145 818 154 819 163 819 c 4
+ 172 819 182 818 191 815 c 4
+ 209 809 224 799 236 783 c 6
+ 519 387 l 5xac
+EndSplineSet
+EndChar
+
+StartChar: P
+Encoding: 80 80 6
+Width: 751
+VWidth: 0
+Flags: W
+HStem: 0 21G<75 255> 0 21G<75 255> 289 173<256 475.534> 643 175<256 475.534>
+VStem: 75 180<0 289 462 643> 497 184<484.13 621.467>
+LayerCount: 2
+Fore
+SplineSet
+393 462 m 2x3c
+ 462 462 497 486 497 535 c 2
+ 497 571 l 2
+ 497 619 462 643 393 643 c 2
+ 256 643 l 1
+ 256 462 l 1
+ 393 462 l 2x3c
+255 0 m 1xbc
+ 75 0 l 1
+ 75 820 l 1
+ 463 818 l 2
+ 609 818 681 736 681 571 c 2
+ 681 535 l 2
+ 681 371 609 289 463 289 c 2
+ 255 289 l 1
+ 255 0 l 1xbc
+EndSplineSet
+Kerns2: 20 -50 "kerning"  19 -10 "kerning"  13 -10 "kerning"  9 -50 "kerning"  8 -10 "kerning"  2 -10 "kerning" 
+EndChar
+
+StartChar: R
+Encoding: 82 82 7
+Width: 773
+VWidth: 0
+Flags: W
+HStem: 0 21G<75 255 494.583 730> 0 21G<75 255 494.583 730> 288 173<256 355> 642 175<256 470.743>
+VStem: 75 180<0 288 461 642> 497 184<485.111 620.467>
+LayerCount: 2
+Fore
+SplineSet
+75 817 m 5xbc
+ 463 817 l 6
+ 464 817 l 4
+ 609 817 681 735 681 570 c 6
+ 681 535 l 6
+ 681 410 639 333 555 303 c 5
+ 730 0 l 5
+ 505 0 l 5
+ 355 288 l 5
+ 255 288 l 5
+ 255 0 l 5
+ 75 0 l 5
+ 75 817 l 5xbc
+256 642 m 5
+ 256 461 l 5
+ 393 461 l 6
+ 394 461 l 4
+ 463 461 497 486 497 535 c 6
+ 497 570 l 6
+ 497 618 462 642 393 642 c 6
+ 256 642 l 5
+EndSplineSet
+Kerns2: 21 -10 "kerning"  19 -20 "kerning"  14 -10 "kerning"  13 -30 "kerning"  12 -10 "kerning"  10 -10 "kerning"  8 -20 "kerning"  3 -10 "kerning"  2 -30 "kerning"  1 -10 "kerning"  22 -30 "kerning" 
+EndChar
+
+StartChar: T
+Encoding: 84 84 8
+Width: 758
+VWidth: 0
+Flags: W
+HStem: 0 21G<286 476> 0 21G<286 476> 642 177<65 286 476 687>
+VStem: 286 190<0 642>
+LayerCount: 2
+Fore
+SplineSet
+286 642 m 5xb0
+ 65 642 l 5
+ 65 819 l 5
+ 687 819 l 5
+ 687 642 l 5
+ 476 642 l 5
+ 476 0 l 5
+ 286 0 l 5
+ 286 642 l 5xb0
+EndSplineSet
+Kerns2: 13 -20 "kerning"  2 -20 "kerning"  22 -80 "kerning" 
+EndChar
+
+StartChar: X
+Encoding: 88 88 9
+Width: 855
+VWidth: 0
+Flags: W
+HStem: 0 21G<51 284.971 569.029 804> 0 21G<51 284.971 569.029 804> 799 20G<51 281.061 576.776 805> 799 20G<51 281.061 576.776 805>
+LayerCount: 2
+Fore
+SplineSet
+51 819 m 5xa0
+ 268 819 l 5
+ 428 574 l 5
+ 590 819 l 5
+ 805 819 l 5
+ 537 408 l 5
+ 804 0 l 5
+ 582 0 l 5
+ 427 239 l 5
+ 272 0 l 5
+ 51 0 l 5
+ 318 406 l 5
+ 51 819 l 5xa0
+EndSplineSet
+Kerns2: 13 -100 "kerning"  2 -100 "kerning"  12 -20 "kerning"  1 -20 "kerning"  22 -80 "kerning" 
+EndChar
+
+StartChar: Y
+Encoding: 89 89 10
+Width: 722
+VWidth: 0
+Flags: W
+HStem: 0 179<105 462> 335 171<251 462> 799 20G<75 251 462 645> 799 20G<75 251 462 645>
+VStem: 75 176<506 819> 462 183<179 335 506 819>
+LayerCount: 2
+Fore
+SplineSet
+75 484 m 0xec
+ 75 484 75 688 75 819 c 25
+ 251 819 l 17
+ 251 506 l 1
+ 462 506 l 1
+ 462 819 l 1
+ 645 819 l 1
+ 645 131 l 2
+ 645 130 645 128 645 127 c 0
+ 645 43 603 1 520 1 c 1
+ 517 0 l 1
+ 105 0 l 1
+ 105 179 l 1
+ 462 179 l 1
+ 462 335 l 1
+ 232 335 l 2
+ 128 335 75 385 75 484 c 0xec
+EndSplineSet
+EndChar
+
+StartChar: a
+Encoding: 97 97 11
+Width: 722
+VWidth: 0
+Flags: W
+HStem: 0 21<74 258 74 258 461 645 461 645> 314 171<258 461> 641 178<258 461>
+VStem: 74 184<0 314 485 641> 461 184<0 314 485 641>
+LayerCount: 2
+Fore
+Refer: 0 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: e
+Encoding: 101 101 12
+Width: 697
+VWidth: 0
+Flags: W
+HStem: 0 177<260 619> 322 174<260 619> 643 176<260 619>
+VStem: 70 190<177 322 496 643>
+LayerCount: 2
+Fore
+Refer: 1 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: g
+Encoding: 103 103 13
+Width: 730
+VWidth: 0
+Flags: W
+HStem: 0 175<338.492 467> 643 176<347.886 652>
+VStem: 59 189<260.483 549.12> 467 185<175 397>
+LayerCount: 2
+Fore
+Refer: 2 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: l
+Encoding: 108 108 14
+Width: 659
+VWidth: 0
+Flags: W
+HStem: 0 176<279.167 594> 799 20<72 265 72 265>
+VStem: 72 193<189.949 819>
+LayerCount: 2
+Fore
+Refer: 3 76 N 1 0 0 1 0 0 2
+Kerns2: 10 -20 "kerning"  21 -20 "kerning"  19 -130 "kerning"  8 -130 "kerning"  13 -30 "kerning"  2 -30 "kerning"  22 -80 "kerning" 
+EndChar
+
+StartChar: m
+Encoding: 109 109 15
+Width: 880
+VWidth: 0
+Flags: W
+HStem: 0 21<74 254 74 254 624 803 624 803> 799 20<150.5 174 150.5 174>
+VStem: 74 180<0 411> 624 179<0 404>
+LayerCount: 2
+Fore
+Refer: 4 77 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: n
+Encoding: 110 110 16
+Width: 776
+VWidth: 0
+Flags: W
+HStem: 0 21<74 254 74 254 604.5 613.5 604.5 613.5> 799 20<158.5 167.5 158.5 167.5 519 698 519 698>
+VStem: 74 180<0 432> 519 179<387 819>
+LayerCount: 2
+Fore
+Refer: 5 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: p
+Encoding: 112 112 17
+Width: 751
+VWidth: 0
+Flags: W
+HStem: 0 21<75 255 75 255> 289 173<256 475.534> 643 175<256 475.534>
+VStem: 75 180<0 289 462 643> 497 184<484.13 621.467>
+LayerCount: 2
+Fore
+Refer: 6 80 N 1 0 0 1 0 0 2
+Kerns2: 9 -50 "kerning"  20 -50 "kerning"  8 -10 "kerning"  19 -10 "kerning"  2 -10 "kerning"  13 -10 "kerning" 
+EndChar
+
+StartChar: r
+Encoding: 114 114 18
+Width: 773
+VWidth: 0
+Flags: W
+HStem: 0 21<75 255 75 255 494.583 730 494.583 730> 288 173<256 355> 642 175<256 470.743>
+VStem: 75 180<0 288 461 642> 497 184<485.111 620.467>
+LayerCount: 2
+Fore
+Refer: 7 82 N 1 0 0 1 0 0 2
+Kerns2: 10 -10 "kerning"  21 -10 "kerning"  8 -20 "kerning"  19 -20 "kerning"  3 -10 "kerning"  14 -10 "kerning"  2 -30 "kerning"  13 -30 "kerning"  1 -10 "kerning"  12 -10 "kerning"  22 -30 "kerning" 
+EndChar
+
+StartChar: t
+Encoding: 116 116 19
+Width: 758
+VWidth: 0
+Flags: W
+HStem: 0 21<286 476 286 476> 642 177<65 286 476 687>
+VStem: 286 190<0 642>
+LayerCount: 2
+Fore
+Refer: 8 84 N 1 0 0 1 0 0 2
+Kerns2: 2 -20 "kerning"  13 -20 "kerning"  22 -80 "kerning" 
+EndChar
+
+StartChar: x
+Encoding: 120 120 20
+Width: 855
+VWidth: 0
+Flags: W
+HStem: 0 21<51 284.971 51 284.971 569.029 804 569.029 804> 799 20<51 281.061 51 281.061 576.776 805 576.776 805>
+LayerCount: 2
+Fore
+Refer: 9 88 N 1 0 0 1 0 0 2
+Kerns2: 13 -100 "kerning"  2 -100 "kerning"  1 -20 "kerning"  12 -20 "kerning"  22 -80 "kerning" 
+EndChar
+
+StartChar: y
+Encoding: 121 121 21
+Width: 722
+VWidth: 0
+Flags: W
+HStem: 0 179<105 462> 335 171<251 462> 799 20<75 251 75 251 462 645 462 645>
+VStem: 75 176<506 819> 462 183<179 335 506 819>
+LayerCount: 2
+Fore
+Refer: 10 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: hyphen
+Encoding: 45 45 22
+Width: 523
+VWidth: 0
+Flags: W
+HStem: 324 185<77 446>
+LayerCount: 2
+Fore
+SplineSet
+446 509 m 5
+ 446 324 l 5
+ 77 324 l 5
+ 77 509 l 5
+ 446 509 l 5
+EndSplineSet
+Kerns2: 20 -80 "kerning"  19 -80 "kerning"  9 -80 "kerning"  8 -80 "kerning" 
+EndChar
+
+StartChar: Q
+Encoding: 81 81 23
+Width: 163
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: q
+Encoding: 113 113 24
+Width: 163
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 23 81 N 1 0 0 1 0 0 2
+EndChar
+EndChars
+EndSplineFont
